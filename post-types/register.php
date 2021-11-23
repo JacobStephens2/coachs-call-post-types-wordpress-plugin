@@ -9,6 +9,7 @@ function cc_register_coach_quote_type() {
   $args = array(
     'labels' => $labels,
     'public' => true,
+    'show_in_rest'	 => true,
   );
 
   register_post_type( 'coach_quote', $args );
