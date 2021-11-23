@@ -20,3 +20,8 @@
 define( 'CC_VERSION', '1.0.0' );
 define( 'CCDOMAIN', 'coachs-call-post-types' );
 define( 'CCPATH', plugin_dir_path( __FILE__ ) );
+
+require_once( CCPATH . '/post-types/register.php' );
+add_action( 'init', 'cc_register_coach_quote_type' );
+
+?>
