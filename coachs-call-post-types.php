@@ -13,4 +13,7 @@
  * Domain Path:       /languages
  */
 
-
+ if ( ! defined( 'WPINC' ) ) {
+   die;
+ }
+ 
