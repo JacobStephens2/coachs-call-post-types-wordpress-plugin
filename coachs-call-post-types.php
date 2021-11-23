@@ -16,4 +16,7 @@
  if ( ! defined( 'WPINC' ) ) {
    die;
  }
- 
+
+define( 'CC_VERSION', '1.0.0' );
+define( 'CCDOMAIN', 'coachs-call-post-types' );
+define( 'CCPATH', plugin_dir_path( __FILE__ ) );
