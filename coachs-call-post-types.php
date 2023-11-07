@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       Coach's Call Post Types and Taxonomies
  * Plugin URI:        https://github.com/JacobStephens2/coachs-call-post-types
- * Description:       A plugin for creating GraphQL enabled custom post types and taxonomies related to a Coach's Call.
+ * Description:       A plugin for creating GraphQL enabled custom post types and taxonomies related to Coach's Call.
  * Version:           1.0.0
  * Author:            Jacob Stephens
  * Author URI:        https:/stewardgoods.com/
